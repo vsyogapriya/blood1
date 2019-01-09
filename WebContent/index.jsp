@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="refresh" content="0;URL=<%=request.getContextPath()%>/index"/>
 <meta charset="ISO-8859-1">
-<title>Blood</title>
+<title>Blood relation</title>
 </head>
 <body>
 
